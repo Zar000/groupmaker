@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "makefile.makefilePath": "C:\\Users\\maksy\\_Dev\\C++\\Hackathon\\groupmaker\\Makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\maksy\\_Dev\\C++\\Hackathon\\groupmaker",
+            "binaryPath": "c:\\Users\\maksy\\_Dev\\C++\\Hackathon\\groupmaker\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
